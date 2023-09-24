@@ -1,6 +1,6 @@
 # Rubiks cube solver 
 The challenge itself: 
-[link](./rubik.html)
+[link](./_pages/rubik)
 
 When applying hte processing power of computers to a real-life application, the process requires several conditions be satisfied: the real-life can be translated to some form of data; the data might be manipulated
 
