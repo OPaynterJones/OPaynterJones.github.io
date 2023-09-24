@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Suduko Solver Blog"
-permalink: /suduko_solver
 ---
 <a href="./" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Back</a>
 
