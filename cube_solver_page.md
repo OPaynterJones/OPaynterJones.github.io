@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Rubiks Cube Vlog"
+title: "Rubiks Cube Blog"
 permalink: /cube_solver
 ---
 <a href="./" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Back</a>
