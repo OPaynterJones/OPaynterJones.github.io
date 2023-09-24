@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Rubiks Cube Vlog"
 permalink: /cube_solver
 ---
