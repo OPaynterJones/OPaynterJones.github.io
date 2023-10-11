@@ -237,6 +237,7 @@ def assign_and_search(current_cell):
     # solution couldn't be found with for any value in this todo_cell, therefor previous assignment must be wrong
     return False
 ```
+
 Utility methods:
 ```python
 def get_least_significant_set_bit(n):
