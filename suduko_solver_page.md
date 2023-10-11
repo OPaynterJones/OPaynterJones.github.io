@@ -4,6 +4,8 @@ title: "Suduko Solver Blog"
 ---
 <a href="./" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Back</a>
 
+The repository with the all the code and some examples can be found [here](https://github.com/OPaynterJones/suduko_solver.git)
+
 # The fastest solver
 
 to my knowledge, the fastest solver for sudukos, of all calibers, is Tom Dillon's solver [**Tduko**](https://github.com/t-dillon/tdoku). As
