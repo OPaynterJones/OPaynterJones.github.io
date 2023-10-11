@@ -255,8 +255,8 @@ def get_number_of_candidates(cell):
 
 def get_index_of_least_significant_bit(n):
     return int(math.log2(n))
-
-
+```
+```python
 def reset_arrays():
     """ Resets rows, columns, boxes and cell-todo list to prepare for a new puzzle."""
     global cells_to_search_on, rows, columns, boxes, solution, last_cell_index
