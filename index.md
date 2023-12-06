@@ -7,7 +7,7 @@ Take a look at some of my projects as well as their accompanying blog posts. The
 
 <div align="center">
   <a href="./genetic_keyboard_page">
-    <img src="./images/genetic-keyboard-overlay.png" alt="Gentic Keyboard" style="width: 450px;">
+    <img src="./images/genetic_keyboard_overlay.png" alt="Gentic Keyboard" style="width: 450px;">
   </a>
 </div>
 
@@ -17,7 +17,7 @@ Take a look at some of my projects as well as their accompanying blog posts. The
 
 <div align="center">
   <a href="./suduko_solver_page">
-    <img src="./images/suduko-overlay.png" alt="Suduko Solver" style="width: 450px;">
+    <img src="./images/suduko_overlay.png" alt="Suduko Solver" style="width: 450px;">
   </a>
 </div>
 
@@ -27,7 +27,7 @@ Take a look at some of my projects as well as their accompanying blog posts. The
 
 <div align="center">
   <a href="./cube_solver_page">
-    <img src="./images/hr_cube-overlay.png" alt="Cube Solver" style="width: 450px;">
+    <img src="./images/hr_cube_overlay.png" alt="Cube Solver" style="width: 450px;">
   </a>
 </div>
 
