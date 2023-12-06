@@ -589,7 +589,7 @@ One such subgroup is the subgroup we will call H:
 
 Let's imagine a solved cube, then restickering it in a such a fashion: 
 
-![H-cube](./images/h_cube.PNG)
+![H-cube](./images/h_cube.png)
 
 Opposite colours are restickered to be homogenous, and all the stickers that do not constitute a part of a UD-slice or top/bottom face are removed. 
 
@@ -609,7 +609,7 @@ So the subgroup H is composed of all cubes that satisfy H's specific conditions,
 
 Let's imagine that we take that solved but restickered cube, and we apply some move to it. It's H form - restickered as shown above - is completely unique:
 
-![H*R-cube](./images/hr_cube.PNG)
+![H*R-cube](./images/hr_cube.png)
 
 From it spawn another 19,508,428,800 variations within, that shuffle about all of the pieces such that is still holds the same H form above when restickered, but are wholistically different. Again, apply another move and you have another 19,508,428,800 varitations th at conform to that same H form. 
 
