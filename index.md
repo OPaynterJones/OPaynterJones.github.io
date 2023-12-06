@@ -7,7 +7,7 @@ Take a look at some of my projects as well as their accompanying blog posts. The
 
 <div align="center">
   <a href="./genetic_keyboard_page">
-    <img src="./images/genetic-keyboard_overlay.png" alt="Gentic Keyboard" style="width: 450px;">
+    <img src="./images/genetic-keyboard-overlay.png" alt="Gentic Keyboard" style="width: 450px;">
   </a>
 </div>
 
